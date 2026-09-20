@@ -1,6 +1,6 @@
 # cffex-trader · 基于东方财富模拟交易 Skill 的多因子轮动编排框架
 
-> **GitHub 仓库：**[ <!-- 待发布后填写链接 --> `(链接待补)`](https://github.com/chemiclu/cffex_trader.git)
+> **GitHub 仓库：**[ <!-- 待发布后填写链接 --> `(点击此处)`](https://github.com/chemiclu/cffex_trader.git)
 >
 > **仅供模拟交易 / 学习研究使用，不构成投资建议。** 期货交易风险极高，请勿接入真实资金。
 
